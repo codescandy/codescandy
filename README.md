@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**codescandy/codescandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Geeks UI - Simple and elegant component-based UI library. Build with Bootsrap 5. [Geeks UI](https://bit.ly/geeksui)

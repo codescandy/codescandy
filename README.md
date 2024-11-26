@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... 
   
   - Geeks UI - Simple and elegant component-based UI library. Build with Bootsrap 5. [Geeks UI](https://geeksui.codescandy.com/) | 
-  - FreshCart - eCommerce HTML Template - [FreshCart](https://freshcart.codescandy.com/pages/overview.html)
+  - FreshCart - eCommerce HTML Template - [FreshCart](https://freshcart-template.codescandy.com)
   
 - 🌱 I’m currently learning ...[ViteJs](https://vitejs.dev/) and [Astro](https://astro.build/)
 - 👯 I’m looking to collaborate on ...
